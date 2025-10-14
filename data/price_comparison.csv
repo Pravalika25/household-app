@@ -1,0 +1,21 @@
+sku_id,sku_name,store,product_name,price,currency,collection_date,source_url
+MILK,Whole Milk,Walmart,Whole Milk - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+MILK,Whole Milk,Target,Whole Milk - Target mock,10.49,USD,2025-10-14,https://example.com/target
+EGGS,Large Eggs,Walmart,Large Eggs - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+EGGS,Large Eggs,Target,Large Eggs - Target mock,10.49,USD,2025-10-14,https://example.com/target
+BREAD,White Bread,Walmart,White Bread - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+BREAD,White Bread,Target,White Bread - Target mock,10.49,USD,2025-10-14,https://example.com/target
+RICE,White Rice,Walmart,White Rice - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+RICE,White Rice,Target,White Rice - Target mock,10.49,USD,2025-10-14,https://example.com/target
+OIL,Vegetable Oil,Walmart,Vegetable Oil - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+OIL,Vegetable Oil,Target,Vegetable Oil - Target mock,10.49,USD,2025-10-14,https://example.com/target
+BUTTER,Butter,Walmart,Butter - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+BUTTER,Butter,Target,Butter - Target mock,10.49,USD,2025-10-14,https://example.com/target
+CHICKEN,Chicken Breast,Walmart,Chicken Breast - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+CHICKEN,Chicken Breast,Target,Chicken Breast - Target mock,10.49,USD,2025-10-14,https://example.com/target
+BEEF,Ground Beef,Walmart,Ground Beef - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+BEEF,Ground Beef,Target,Ground Beef - Target mock,10.49,USD,2025-10-14,https://example.com/target
+SUGAR,Sugar,Walmart,Sugar - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+SUGAR,Sugar,Target,Sugar - Target mock,10.49,USD,2025-10-14,https://example.com/target
+COFFEE,Coffee,Walmart,Coffee - Walmart mock,9.99,USD,2025-10-14,https://example.com/walmart
+COFFEE,Coffee,Target,Coffee - Target mock,10.49,USD,2025-10-14,https://example.com/target
