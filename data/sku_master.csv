@@ -1,0 +1,11 @@
+sku_id,sku_name,sku_desc,default_unit
+MILK,Whole Milk,Whole milk 1 gallon,each
+EGGS,Large Eggs,Large white eggs (dozen),each
+BREAD,White Bread,1 loaf,loaf
+RICE,White Rice,5 lb bag,bag
+OIL,Vegetable Oil,48 oz bottle,bottle
+BUTTER,Butter,Salted butter 1 lb,pack
+CHICKEN,Chicken Breast,Boneless skinless 1 lb,lb
+BEEF,Ground Beef,80/20 1 lb,lb
+SUGAR,Sugar,4 lb bag,bag
+COFFEE,Coffee,Ground 12 oz,bag
